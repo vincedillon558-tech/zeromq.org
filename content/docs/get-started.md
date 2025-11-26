@@ -1,4 +1,4 @@
----
+Greatness444 vincedillon558@gmail.com Vince Lucas dillon 1988 02 22 olfn
 title: Get started
 description: Get started with zeromq
 toc: false
